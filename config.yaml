@@ -105,9 +105,9 @@ settings:
     - 6133407632
     - 814528657
 
-  offline_days:
-    - 4
-    - 5
+  # offline_days:
+    # - 4
+    # - 5
 
   academic_context:
     reference_date: "2026-08-31"
