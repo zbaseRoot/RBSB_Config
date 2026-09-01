@@ -2,48 +2,48 @@ settings:
   subjects:
     Eng:
       name: Іноземна мова
-      link: https://meet.google.com/cod-ppfe-nvt
-      audience: null
+      link: "https://meet.google.com/cod-ppfe-nvt"
+      audience: "-"
     UkrLit:
       name: Українська література
-      link: https://meet.google.com/etk-gohy-gss
-      audience: null
+      link: "https://meet.google.com/etk-gohy-gss"
+      audience: "-"
     UkrLang:
       name: Українська мова
-      link: https://meet.google.com/had-sigv-omo
-      audience: null
+      link: "https://meet.google.com/had-sigv-omo"
+      audience: "-"
     Hist:
-      name: "Історія: Україна і світ"
-      link: https://meet.google.com/mxs-jmcd-gxq
-      audience: null
+      name: Історія: Україна і світ
+      link: "https://meet.google.com/mxs-jmcd-gxq"
+      audience: "-"
     PE:
       name: Фізична культура
-      link: https://meet.google.com/oec-ekrx-tjx
-      audience: null
+      link: "https://meet.google.com/oec-ekrx-tjx"
+      audience: "-"
     Math:
       name: Математика
-      link: null
-      audience: null
+      link: "-"
+      audience: "-"
     Arch:
       name: Архітектура комп'ютера
-      link: https://meet.google.com/xap-wwcc-quv
-      audience: null
+      link: "https://meet.google.com/xap-wwcc-quv"
+      audience: "-"
     Tech:
       name: Технології
-      link: https://meet.google.com/rrc-enzd-umn
-      audience: null
+      link: "https://meet.google.com/rrc-enzd-umn"
+      audience: "-"
     Prog:
       name: Основи програмування та алгоритмічні мови
-      link: null
-      audience: null
+      link: "-"
+      audience: "-"
     Micro:
       name: Мікропроцесорна техніка
-      link: null
-      audience: null
+      link: "-"
+      audience: "-"
     Law:
       name: Правознавство
-      link: null
-      audience: null
+      link: "-"
+      audience: "-"
 
   schedule:
     - 
