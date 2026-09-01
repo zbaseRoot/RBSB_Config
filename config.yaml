@@ -3,47 +3,47 @@ settings:
     Eng:
       name: Іноземна мова
       link: https://meet.google.com/cod-ppfe-nvt
-      audience: "-"
+      audience: null
     UkrLit:
       name: Українська література
       link: https://meet.google.com/etk-gohy-gss
-      audience: "-"
+      audience: null
     UkrLang:
       name: Українська мова
       link: https://meet.google.com/had-sigv-omo
-      audience: "-"
+      audience: null
     Hist:
       name: "Історія: Україна і світ"
       link: https://meet.google.com/mxs-jmcd-gxq
-      audience: "-"
+      audience: null
     PE:
       name: Фізична культура
       link: https://meet.google.com/oec-ekrx-tjx
-      audience: "-"
+      audience: null
     Math:
       name: Математика
-      link: "-"
-      audience: "-"
+      link: null
+      audience: null
     Arch:
       name: Архітектура комп'ютера
       link: https://meet.google.com/xap-wwcc-quv
-      audience: "-"
+      audience: null
     Tech:
       name: Технології
       link: https://meet.google.com/rrc-enzd-umn
-      audience: "-"
+      audience: null
     Prog:
       name: Основи програмування та алгоритмічні мови
-      link: "-"
-      audience: "-"
+      link: null
+      audience: null
     Micro:
       name: Мікропроцесорна техніка
-      link: "-"
-      audience: "-"
+      link: null
+      audience: null
     Law:
       name: Правознавство
-      link: "-"
-      audience: "-"
+      link: null
+      audience: null
 
   schedule:
     - 
@@ -53,11 +53,11 @@ settings:
       4: [ Arch, Arch, Tech, Prog ]
       5: [ Micro, Prog, Math, Law ]
     - 
-      1: [ "-" ]
-      2: [ "-" ]
-      3: [ "-" ]
-      4: [ "-" ]
-      5: [ "-" ]
+      1: [ null, null, null, null ]
+      2: [ null, null, null, null ]
+      3: [ null, null, null, null ]
+      4: [ null, null, null, null ]
+      5: [ null, null, null, null ]
 
   saturday_schedule:
     "12.09.2026":
