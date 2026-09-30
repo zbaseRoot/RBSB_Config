@@ -50,7 +50,7 @@ settings:
       1: [ Eng, UkrLit, UkrLang, Hist ]
       2: [ null, null, PE, Math ]
       3: [ null, null, null, null ]
-      4: [ Arch, Arch, Tech, Prog ]
+      4: [ null, Hist, UkrLit, UkrLang, null ]
       5: [ Micro, Prog, Math, Law ]
     - 
       1: [ Eng, UkrLit, UkrLang, Hist ]
