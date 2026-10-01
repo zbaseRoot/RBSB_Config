@@ -45,76 +45,75 @@ settings:
       link: "https://meet.google.com/sis-utjw-pet"
       audience: "-"
 
-  schedule:
-    - 
-      1: [ Eng, UkrLit, UkrLang, Hist ]
-      2: [ null, null, PE, Math ]
-      3: [ null, null, null, null ]
-      4: [ null, Hist, UkrLit, UkrLang, null ]
-      5: [ Micro, Prog, Math, Law ]
-    - 
-      1: [ Eng, UkrLit, UkrLang, Hist ]
-      2: [ null, Micro, PE, null ]
-      3: [ null, null, null, null ]
-      4: [ Arch, Arch, Tech, Hist ]
-      5: [ Micro, Prog, Math, Law ]
+schedule:
+  - 1: [ Eng, UkrLit, UkrLang, Hist ]
+    2: [ null, null, PE, Math ]
+    3: [ null, null, null, null ]
+    4: [ null, Hist, UkrLit, UkrLang, null ]
+    5: [ Eng, Arch, Arch, Prog ]
+  - 1: [ Eng, UkrLit, UkrLang, Hist ]
+    2: [ null, Micro, PE, null ]
+    3: [ null, null, null, null ]
+    4: [ Arch, Arch, Tech, Hist ]
+    5: [ Micro, Prog, Math, Law ]
 
-  saturday_schedule:
-    "12.09.2026":
-      week: 1
-      day: 1
-    "19.09.2026":
-      week: 1
-      day: 2
-    "26.09.2026":
-      week: 1
-      day: 3
-    "03.10.2026":
-      week: 1
-      day: 4
-    "10.10.2026":
-      week: 1
-      day: 5
-    "17.10.2026":
-      week: 2
-      day: 1
-    "24.10.2026":
-      week: 2
-      day: 2
-    "31.10.2026":
-      week: 2
-      day: 3
-    "07.11.2026":
-      week: 2
-      day: 4
-    "14.11.2026":
-      week: 2
-      day: 5
-    "21.11.2026":
-      week: 1
-      day: 1
+saturday_schedule:
+  "12.09.2026":
+    week: 1
+    day: 1
+  "19.09.2026":
+    week: 1
+    day: 2
+  "26.09.2026":
+    week: 1
+    day: 3
+  "03.10.2026":
+    week: 1
+    day: 4
+  "10.10.2026":
+    week: 1
+    day: 5
+  "17.10.2026":
+    week: 2
+    day: 1
+  "24.10.2026":
+    week: 2
+    day: 2
+  "31.10.2026":
+    week: 2
+    day: 3
+  "07.11.2026":
+    week: 2
+    day: 4
+  "14.11.2026":
+    week: 2
+    day: 5
+  "21.11.2026":
+    week: 1
+    day: 1
 
-  time:
-    - "08:00 – 09:35"
-    - "09:50 – 11:25"
-    - "11:40 – 13:15"
-    - "13:30 – 15:05"
-    - "15:20 – 16:55"
+time:
+  - "08:00 – 09:35"
+  - "09:50 – 11:25"
+  - "11:40 – 13:15"
+  - "13:30 – 15:05"
+  - "15:20 – 16:55"
 
-  admins:
-    - 6133407632
-    - 814528657
+admins:
+  - 6133407632
+  - 814528657
 
-  academic_context:
-    reference_date: "2026-08-31"
-    reference_week: 1
+academic_context:
+  reference_date: "2026-08-31"
+  reference_week: 1
 
-  app_version: "1.6.3"
-  whats_new_text: |
-    Що нового:
-    - Підтримка Rich повідомлень.
-    - Виправлено роботу в форумах.
-    - Можливість увімкнути/вимкнути Rich повідомлення.
-    - Статистика в групах надсилається як ефемерні повідомлення.
-    - Виправлено логіку сповіщень про повітряні тривоги.
-    - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.
+app_version: "1.6.3"
+whats_new_text: |
+  Що нового:
+  - Підтримка Rich повідомлень.
+  - Виправлено роботу в форумах.
+  - Можливість увімкнути/вимкнути Rich повідомлення.
+  - Статистика в групах надсилається як ефемерні повідомлення.
+  - Виправлено логіку сповіщень про повітряні тривоги.
+  - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.
+  
