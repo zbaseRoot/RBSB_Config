@@ -46,14 +46,12 @@ settings:
       audience: "-"
 
   schedule:
-    - 
-      1: [ Eng, UkrLit, UkrLang, Hist ]
+    - 1: [ Eng, UkrLit, UkrLang, Hist ]
       2: [ null, null, PE, Math ]
       3: [ null, null, null, null ]
       4: [ null, Hist, UkrLit, UkrLang, null ]
-      5: [ Micro, Prog, Math, Law ]
-    - 
-      1: [ Eng, UkrLit, UkrLang, Hist ]
+      5: [ Eng, Arch, Arch, Prog ]
+    - 1: [ Eng, UkrLit, UkrLang, Hist ]
       2: [ null, Micro, PE, null ]
       3: [ null, null, null, null ]
       4: [ Arch, Arch, Tech, Hist ]
@@ -109,12 +107,12 @@ settings:
     reference_date: "2026-08-31"
     reference_week: 1
 
-  app_version: "1.6.3"
-  whats_new_text: |
-    Що нового:
-    - Підтримка Rich повідомлень.
-    - Виправлено роботу в форумах.
-    - Можливість увімкнути/вимкнути Rich повідомлення.
-    - Статистика в групах надсилається як ефемерні повідомлення.
-    - Виправлено логіку сповіщень про повітряні тривоги.
-    - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.
+app_version: "1.6.3"
+whats_new_text: |
+  Що нового:
+  - Підтримка Rich повідомлень.
+  - Виправлено роботу в форумах.
+  - Можливість увімкнути/вимкнути Rich повідомлення.
+  - Статистика в групах надсилається як ефемерні повідомлення.
+  - Виправлено логіку сповіщень про повітряні тривоги.
+  - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.
