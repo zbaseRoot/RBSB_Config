@@ -107,7 +107,7 @@ settings:
     reference_date: "2026-08-31"
     reference_week: 1
 
-app_version: "1.7.0"
+  app_version: "1.7.1"
 whats_new_text: |
   Що нового:
   - Покращено стабільність роботи.
