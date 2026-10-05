@@ -44,6 +44,14 @@ settings:
       name: Правознавство
       link: https://meet.google.com/sis-utjw-pet
       audience: '-'
+    Phys:
+      name: Фізика
+      link: https://meet.google.com/yop-qyes-ysb
+      audience: '-'
+    Ons:
+      name: Основи національного спротиву
+      link: -
+      audience: '-'
   schedule:
   - 1: [Eng, UkrLit, UkrLang, Hist]
     2: [null, null, PE, Math]
@@ -51,7 +59,7 @@ settings:
     4: [null, Hist, UkrLit, UkrLang, null]
     5: [Eng, Arch, Arch, Prog]
   - 1: [null, null, null, Micro, Law]
-    2: [null, Micro, PE, null]
+    2: [Phys, Phys, PE, Ons]
     3: [null, null, null, null]
     4: [Arch, Arch, Tech, Hist]
     5: [Micro, Prog, Math, Law]
