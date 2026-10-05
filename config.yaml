@@ -50,7 +50,7 @@ settings:
       audience: '-'
     Ons:
       name: Основи національного спротиву
-      link: -
+      link: '-'
       audience: '-'
   schedule:
   - 1: [Eng, UkrLit, UkrLang, Hist]
