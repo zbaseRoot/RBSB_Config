@@ -2,120 +2,122 @@ settings:
   subjects:
     Eng:
       name: Іноземна мова
-      link: "https://meet.google.com/cod-ppfe-nvt"
-      audience: "-"
+      link: https://meet.google.com/cod-ppfe-nvt
+      audience: '-'
     UkrLit:
       name: Українська література
-      link: "https://meet.google.com/etk-gohy-gss"
-      audience: "-"
+      link: https://meet.google.com/etk-gohy-gss
+      audience: '-'
     UkrLang:
       name: Українська мова
-      link: "https://meet.google.com/had-sigv-omo"
-      audience: "-"
+      link: https://meet.google.com/had-sigv-omo
+      audience: '-'
     Hist:
-      name: "Історія: Україна і світ"
-      link: "https://meet.google.com/mxs-jmcd-gxq"
-      audience: "-"
+      name: 'Історія: Україна і світ'
+      link: https://meet.google.com/mxs-jmcd-gxq
+      audience: '-'
     PE:
       name: Фізична культура
-      link: "https://meet.google.com/oec-ekrx-tjx"
-      audience: "-"
+      link: https://meet.google.com/oec-ekrx-tjx
+      audience: '-'
     Math:
       name: Математика
-      link: "https://meet.google.com/gvu-ghff-jyb"
-      audience: "-"
+      link: https://meet.google.com/gvu-ghff-jyb
+      audience: '-'
     Arch:
       name: Архітектура комп'ютера
-      link: "https://meet.google.com/xap-wwcc-quv"
-      audience: "-"
+      link: https://meet.google.com/xap-wwcc-quv
+      audience: '-'
     Tech:
       name: Технології
-      link: "https://meet.google.com/rrc-enzd-umn"
-      audience: "-"
+      link: https://meet.google.com/rrc-enzd-umn
+      audience: '-'
     Prog:
       name: Основи програмування та алгоритмічні мови
-      link: "https://meet.google.com/ajg-mqad-hox"
-      audience: "-"
+      link: https://meet.google.com/ajg-mqad-hox
+      audience: '-'
     Micro:
       name: Мікропроцесорна техніка
-      link: "https://meet.google.com/djb-koay-sjb"
-      audience: "-"
+      link: https://meet.google.com/djb-koay-sjb
+      audience: '-'
     Law:
       name: Правознавство
-      link: "https://meet.google.com/sis-utjw-pet"
-      audience: "-"
-
+      link: https://meet.google.com/sis-utjw-pet
+      audience: '-'
   schedule:
-    - 1: [ Eng, UkrLit, UkrLang, Hist ]
-      2: [ null, null, PE, Math ]
-      3: [ null, null, null, null ]
-      4: [ null, Hist, UkrLit, UkrLang, null ]
-      5: [ Eng, Arch, Arch, Prog ]
-    - 1: [ Eng, UkrLit, UkrLang, Hist ]
-      2: [ null, Micro, PE, null ]
-      3: [ null, null, null, null ]
-      4: [ Arch, Arch, Tech, Hist ]
-      5: [ Micro, Prog, Math, Law ]
-
+  - 1: [Eng, UkrLit, UkrLang, Hist]
+    2: [null, null, PE, Math]
+    3: [null, null, null, null]
+    4: [null, Hist, UkrLit, UkrLang, null]
+    5: [Eng, Arch, Arch, Prog]
+  - 1: [null, null, null, Micro, Law]
+    2: [null, Micro, PE, null]
+    3: [null, null, null, null]
+    4: [Arch, Arch, Tech, Hist]
+    5: [Micro, Prog, Math, Law]
   saturday_schedule:
-    "12.09.2026":
+    12.09.2026:
       week: 1
       day: 1
-    "19.09.2026":
+    19.09.2026:
       week: 1
       day: 2
-    "26.09.2026":
+    26.09.2026:
       week: 1
       day: 3
-    "03.10.2026":
+    03.10.2026:
       week: 1
       day: 4
-    "10.10.2026":
+    10.10.2026:
       week: 1
       day: 5
-    "17.10.2026":
+    17.10.2026:
       week: 2
       day: 1
-    "24.10.2026":
+    24.10.2026:
       week: 2
       day: 2
-    "31.10.2026":
+    31.10.2026:
       week: 2
       day: 3
-    "07.11.2026":
+    07.11.2026:
       week: 2
       day: 4
-    "14.11.2026":
+    14.11.2026:
       week: 2
       day: 5
-    "21.11.2026":
+    21.11.2026:
       week: 1
       day: 1
-
   time:
-    - "08:00 – 09:35"
-    - "09:50 – 11:25"
-    - "11:40 – 13:15"
-    - "13:30 – 15:05"
-    - "15:20 – 16:55"
-
+  - 08:00 – 09:35
+  - 09:50 – 11:25
+  - 11:40 – 13:15
+  - 13:30 – 15:05
+  - 15:20 – 16:55
   admins:
-    - 6133407632
-    - 814528657
-
+  - 6133407632
+  - 814528657
   academic_context:
-    reference_date: "2026-08-31"
+    reference_date: '2026-08-31'
     reference_week: 1
+  app_version: 1.7.1
+whats_new_text: 'Що нового:
 
-  app_version: "1.7.1"
-whats_new_text: |
-  Що нового:
   - Покращено стабільність роботи.
+
   - Додано можливість швидкого редагування розкладу.
+
   - Додано можливість вказувати унікальний розклад на конкретну суботу.
+
   - Підтримка Rich повідомлень.
+
   - Виправлено роботу в форумах.
+
   - Можливість увімкнути/вимкнути Rich повідомлення.
+
   - Статистика в групах надсилається як ефемерні повідомлення.
+
   - Виправлено логіку сповіщень про повітряні тривоги.
-  - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.
+
+  - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.'
