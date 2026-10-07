@@ -60,7 +60,7 @@ settings:
     5: [Eng, Arch, Arch, Prog]
   - 1: [null, null, null, Micro, Law]
     2: [Phys, Phys, PE, Ons]
-    3: [null, null, null, null]
+    3: [Math, Tech, Hist, null]
     4: [Arch, Arch, Tech, Hist]
     5: [Micro, Prog, Math, Law]
   saturday_schedule:
