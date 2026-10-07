@@ -53,16 +53,16 @@ settings:
       link: '-'
       audience: '-'
   schedule:
-  - 1: [Eng, UkrLit, UkrLang, Hist]
-    2: [null, null, PE, Math]
-    3: [null, null, null, null]
+  - 1: [null, null, null, Micro, Law]
+    2: [Phys, Phys, PE, Ons]
+    3: [Math, Tech, Math, null]
     4: [null, Hist, UkrLit, UkrLang, null]
     5: [Eng, Arch, Arch, Prog]
   - 1: [null, null, null, Micro, Law]
     2: [Phys, Phys, PE, Ons]
     3: [Math, Tech, Hist, null]
-    4: [Arch, Arch, Tech, Hist]
-    5: [Micro, Prog, Math, Law]
+    4: [null, Hist, UkrLit, UkrLang, null]
+    5: [Eng, Arch, Prog, Prog]
   saturday_schedule:
     12.09.2026:
       week: 1
@@ -129,3 +129,4 @@ whats_new_text: 'Що нового:
   - Виправлено логіку сповіщень про повітряні тривоги.
 
   - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.'
+  
