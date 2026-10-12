@@ -50,7 +50,7 @@ settings:
       audience: '-'
     Ons:
       name: Основи національного спротиву
-      link: '-'
+      link: https://meet.google.com/upk-eqhg-sqt
       audience: '-'
   schedule:
   - 1: [null, null, null, Micro, Law]
