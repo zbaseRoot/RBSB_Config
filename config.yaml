@@ -56,7 +56,7 @@ settings:
   - 1: [null, null, null, Micro, Law]
     2: [Phys, Phys, PE, Ons]
     3: [Math, Tech, Math, null]
-    4: [null, Hist, UkrLit, UkrLang, Hist]
+    4: [null, Hist, UkrLit, UkrLang]
     5: [Eng, Arch, Arch, Prog]
   - 1: [null, null, null, Micro, Law]
     2: [Phys, Phys, PE, Ons]
